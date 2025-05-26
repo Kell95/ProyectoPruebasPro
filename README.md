@@ -7,5 +7,6 @@ Este proyecto tiene como objetivo desarrollar un modelo de clasificación capaz 
 
 
 Video Entrega 2
+
 Operaciones de limpieza y preprocesado de datos
 https://youtu.be/LUO-MfomZFk
