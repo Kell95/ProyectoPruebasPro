@@ -10,3 +10,6 @@ Video Entrega 2
 
 Operaciones de limpieza y preprocesado de datos
 https://youtu.be/LUO-MfomZFk
+
+Video Entrega Final 
+https://youtu.be/TLJ02ZCDoRQ
